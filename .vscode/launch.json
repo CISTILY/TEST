@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/admin/Documents/GitHub/TEST/MergeLL",
-      "program": "c:/Users/admin/Documents/GitHub/TEST/MergeLL/build/Debug/outDebug",
+      "cwd": "c:/Users/admin/Documents/GitHub/TEST/Final",
+      "program": "c:/Users/admin/Documents/GitHub/TEST/Final/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
